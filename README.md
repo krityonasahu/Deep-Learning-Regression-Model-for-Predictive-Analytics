@@ -1,5 +1,7 @@
 # Deep Learning Regression Model for Predictive Analytics
 
+A regression-based Artificial Neural Network built using TensorFlow and Keras to learn and predict continuous numerical values from the California Housing dataset.
+
 ## Project Overview
 
 This project implements a Deep Learning-based Regression Model using TensorFlow and Keras. The objective is to learn relationships between multiple input features and predict a continuous numerical output.
